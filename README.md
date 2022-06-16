@@ -4,9 +4,9 @@ This repo contains Jupyter Notebooks used for the taxonomy text mining project.
 
 The Notebooks are organized according to the stages of the project : 
 
-- 1-Data collection / corpora (web scraping with BeautifulSoup and tabula-py)
-- 2-Preprocessing
-- 3-Transformation / weighting / feature extraction
+1. Data collection / corpora (web scraping with BeautifulSoup and tabula-py)
+2. Preprocessing
+3. Transformation / weighting / feature extraction
 
 Corpora are organized (for now) per actors in Quebec Health Care System :
 - CISSS / CIUSSS
