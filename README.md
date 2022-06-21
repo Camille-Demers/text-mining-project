@@ -2,6 +2,8 @@
 
 This repo contains Jupyter Notebooks used for the taxonomy text mining project. 
 
+[Notion - Text Mining Project](https://www.notion.so/clinia/Text-mining-project-99cd5e1f4054436ca23200d8aca6e3fa)
+
 ### **Scripts**
 The Notebooks are organized according to the stages of the project : 
 
