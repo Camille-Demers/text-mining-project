@@ -7,7 +7,7 @@ The Notebooks are organized according to the stages of the project :
 
 1. Data collection / corpora (web scraping with BeautifulSoup and PyPDF2)
 2. Preprocessing (NLTK, TreeTagger Wrapper, LefffFrenchLemmatizer)
-3. Transformation / weighting / feature extraction (
+3. Transformation / weighting / feature extraction (sklearn TfIdfVectorizer)
   
 ### **Corpora**
 Corpora are organized (for now) per actors in Quebec Health Care System :
