@@ -5,7 +5,7 @@ La documentation liée au projet se trouve ici :
 ### **Jupyter Notebooks**
 Les Notebooks sont organisés selon les différentes étapes d'une méthodologie en fouille de textes : 
 1. Constitution d'un corpus
-2. Prétraitement (segmentation, filtrage, POS tagging, lemmatisation, etc.)
+2. Prétraitement (nettoyage, segmentation, filtrage, POS tagging, lemmatisation, etc.)
 3. Pondération statistique (TF-IDF, Log-likelihood Ratio)
 4. Fouille (clustering [à venir])
 
