@@ -1,0 +1,11 @@
+# Generic things to ignore
+.DS_Store
+
+# Folders to ignore
+00-admin
+01-ressources/*
+02-contexte_litterature/*
+03-corpus/*
+04-filtrage/output/*
+04-filtrage/vocab/*
+05-transformation/*

@@ -1,168 +1,188 @@
-tous droits réservés
-toutes les nouvelles
-offres d'emploi
-lire la suite
-plan du site
-salle de presse
-foire aux questions
-faire un don
-lire l'article
-toutes les actualités
-aller au contenu principal
-mise à jour
-mises à jour
-mot de passe
-passer au contenu
-nouvelles et événements
-communiqués de presse
-tous les articles
-fil des événements
-passer au contenu
-aller au contenu
-nous joindre
-formulaire d’adhésion
-mentions légales
-devenir membre
-accès rapide
-cliquez ici
-cliquer ici
-voir la suite
-accès rapide
-lire plus
-salle de presse
-lire les communiqués
-gouvernement du québec
-diffusion de l'information
-voir plus
-suivez nous
-à propos
-accès à l'information
-conditions d'utilisation
-accès réservé
-menu rapide
-politique de confidentialité
-en savoir plus
-nous suivre
-déclaration de services
-lois et politiques
-conditions et confidentialité
-confidentialité et sécurité
-je recherche
-soins et services
-portail québec
-informations pratiques
-enseignement et recherche
-prix et distinctions
-informations utiles
-en apprendre plus
-conseil d'administration
-menu principal
-équité diversité inclusion
-aller au menu gouvernemental
-taille d'affichage
-fermer les options d'accessibilité pour l'affichage
-appel de candidatures
-outil de recherche
-champ vide
-mise en œuvre
-besoin d'aide
-version imprimable
-version accessible
-version électronique
-type de document
-contactez nous
-réinitialiser la recherche
-normes graphiques
-devenir membre
-aller a la navigation
-coin du
+tous droits réservés 
+toutes les nouvelles 
+offres d'emploi 
+lire la suite 
+plan du site 
+salle de presse 
+foire aux questions 
+faire un don 
+lire l'article 
+toutes les actualités 
+aller au contenu principal 
+mise à jour 
+mises à jour 
+mot de passe 
+passer au contenu 
+nouvelles et événements 
+communiqués de presse 
+tous les articles 
+fil des événements 
+aller au contenu 
+nous joindre 
+formulaire d’adhésion 
+mentions légales 
+devenir membre 
+accès rapide 
+cliquez ici 
+cliquer ici 
+voir la suite 
+lire plus 
+lire les communiqués 
+gouvernement du québec 
+diffusion de l'information 
+voir plus 
+suivez nous 
+suivez-nous 
+qui sommes-nous 
+à propos 
+accès à l'information 
+conditions d'utilisation 
+accès réservé 
+menu rapide 
+politique de confidentialité 
+en savoir plus 
+nous suivre 
+déclaration de services 
+lois et politiques 
+conditions et confidentialité 
+confidentialité et sécurité 
+je recherche 
+soins et services 
+portail québec 
+informations pratiques 
+enseignement et recherche 
+prix et distinctions 
+informations utiles 
+en apprendre plus 
+conseil d'administration 
+menu principal 
+équité diversité inclusion 
+aller au menu gouvernemental 
+taille d'affichage 
+fermer les options d'accessibilité pour l'affichage 
+appel de candidatures 
+outil de recherche 
+champ vide 
+mise en œuvre 
+besoin d'aide 
+version imprimable 
+version accessible 
+version électronique 
+type de document 
+contactez nous 
+réinitialiser la recherche 
+normes graphiques 
+aller a la navigation 
+coin du 
 programmes services 
-programme services
-réseau professionnels publications directives
-nouvelle fenêtre
-rtf format
-accueil répertoire
-plan d'action
-bilan annuel
-procès verbal
-taille de texte
-appliquer filtre
-rencontre statutaire
+programme services 
+réseau professionnels publications directives 
+nouvelle fenêtre 
+rtf format 
+accueil répertoire 
+plan d'action 
+bilan annuel 
+procès verbal 
+taille de texte 
+appliquer filtre 
+rencontre statutaire 
 consultez la page 
 configuration requise 
-pour plus d’information
-aler au menu
-aller au contenu principal
-contenu principal
-québec ca
-gouv qc
-publications nous joindre
+pour plus d’information 
+aler au menu 
+contenu principal 
+québec ca 
+gouv qc 
+publications nous joindre 
 souvent consultés 
-fils rss
-affichage normal
+fils rss 
+affichage normal 
 contraste élevé 
-contraste inversé
-all rights reserved
-view non-amp version
-recherche chercher
-qi gong
-services emplois
-access bars
-promotions promotion
-saint georges
-saint jean
-st valentin
-journée portes ouvertes
-forum de consultation
-info performance
-renseignements personnels
-plan stratégique
-services assurés
-commonwealth fund
-assemblée nationale
-listes de diffusion
-derniers numéros
-qc ca
-div class
-class field
-isbn électronique 978
-faits saillants
-rapport annuel de gestion
-liens utiles
-revue de presse
-nom d'utilisateur
-sites default
-default files
-audio vidéo
-files uploads
-url source
-printer friendly
-http www
-connexion utilisateur
-adresse de courriel
-nom d'utilisateur
-preuve d'inscription
-recherche recherche
-inscription au tableau
-514 935 2501
-margin right
-version numérique
-en bref
-création web
-o'loughlin
-o'brien
-o'reilly
-o'connor
-o'neill
-marie hélène
-dernière modification
-sainte-foy
-vulnérabilité informatique
-renseignements généraux
-ca fr
-yves rocher
-version anglaise
-appliquer filtres
-fil d'ariane
-social media
-réseaux sociaux
+contraste inversé 
+all rights reserved 
+view non-amp version 
+recherche chercher 
+qi gong 
+services emplois 
+access bars 
+promotions promotion 
+saint georges 
+saint jean 
+st valentin 
+journée portes ouvertes 
+forum de consultation 
+info performance 
+renseignements personnels 
+plan stratégique 
+services assurés 
+commonwealth fund 
+assemblée nationale 
+listes de diffusion 
+derniers numéros 
+qc ca 
+div class 
+class field 
+isbn électronique 978 
+faits saillants 
+rapport annuel de gestion 
+liens utiles 
+revue de presse 
+nom d'utilisateur 
+sites default 
+default files 
+audio vidéo 
+files uploads 
+url source 
+printer friendly 
+http www 
+connexion utilisateur 
+adresse de courriel 
+preuve d'inscription 
+recherche recherche 
+inscription au tableau 
+514 935 2501 
+margin right 
+version numérique 
+en bref 
+création web 
+o'loughlin 
+o'brien 
+o'reilly 
+o'connor 
+o'neill 
+marie hélène 
+dernière modification 
+sainte-foy 
+vulnérabilité informatique 
+renseignements généraux 
+ca fr 
+yves rocher 
+version anglaise 
+appliquer filtres 
+fil d'ariane 
+social media 
+réseaux sociaux 
+code promo 
+mot clé 
+formations en ligne 
+accès refusé 
+principale accueil 
+grâce à 
+médiaux sociaux 
+mise en place 
+fine pointe 
+version rss 
+de dollars 
+Menu du compte de l'utilisateur 
+Se connecter 
+Navigation principale 
+accueil 
+español 
+jean pierre 
+anne marie 
+marie claude 
+marie ève 
+jean françois 
+marie josée 
+prud homme 
+france leblanc 
