@@ -1,0 +1,6 @@
+,Bigramme,Log-Likelihood Ratio,p-value
+4,"('reconstruction', 'mammaire')",1531.3670403761646,0.0
+3,"('système', 'immunitaire')",1403.6719732953816,3.34581709090362e-307
+1,"('radio', 'oncologie')",1396.6163227649477,1.1421152779731843e-305
+0,"('cellules', 'cancéreuses')",737.1236546967899,2.5305495193019183e-162
+2,"('fibrillation', 'auriculaire')",-inf,1.0
