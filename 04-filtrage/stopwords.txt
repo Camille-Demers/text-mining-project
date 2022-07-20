@@ -1660,3 +1660,5 @@ antoine
 boucher
 annexe
 avertissement
+ micheline
+ lapalme
