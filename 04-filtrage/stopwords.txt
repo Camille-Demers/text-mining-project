@@ -1,3 +1,4 @@
+MWE_STOP
 alors
 au
 aucun
@@ -65,6 +66,7 @@ notre
 nous
 ou
 où
+gov
 par
 parce
 pas
@@ -1656,3 +1658,7 @@ imbeault
 helena
 antoine
 boucher
+annexe
+avertissement
+ micheline
+ lapalme
