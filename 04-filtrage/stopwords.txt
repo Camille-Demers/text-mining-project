@@ -1660,5 +1660,9 @@ antoine
 boucher
 annexe
 avertissement
- micheline
- lapalme
+micheline
+lapalme
+https
+twitter
+com
+qc
