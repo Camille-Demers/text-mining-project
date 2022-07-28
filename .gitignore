@@ -1,5 +1,7 @@
 # Generic things to ignore
 .DS_Store
+.xlsx
+.log
 
 # Folders to ignore
 00-admin
@@ -9,6 +11,4 @@
 04-filtrage/output/*
 04-filtrage/vocab/*
 05-transformation/*
-msss_cancer.xlsx
-inspq_itss.xlsx
-04-filtrage/trace.log
+06-clustering/*
