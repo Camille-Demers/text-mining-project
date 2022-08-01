@@ -191,3 +191,4 @@ created with sketch
 background color
 accès refusé
 retour à la liste
+coup d'oeil
