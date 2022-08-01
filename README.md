@@ -5,19 +5,15 @@ La documentation liée au projet se trouve ici :
 ### **Jupyter Notebooks**
 Les Notebooks sont organisés selon les différentes étapes d'une méthodologie en fouille de textes : 
 1. Constitution d'un corpus
-2. Prétraitement (nettoyage, segmentation, filtrage, POS tagging, lemmatisation, etc.)
-3. Pondération statistique (TF-IDF, Log-likelihood Ratio)
-4. Fouille (clustering [à venir])
+2. Prétraitement (nettoyage, segmentation, filtrage, POS tagging, extraction de collocations significatives, etc.)
+3. Pondération statistique (TF-IDF, OKapiBM25)
+4. Fouille (Clustering / Topic Modeling)
 
 ### **Organisation des corpus**
 Les différents dossiers de ce répertoire sont organisés selon la structure des corpus, c'est-à-dire par acteur dans l'organigramme du système de santé : 
 - Associations et ordres professionnels
 - CHU / Instituts universitaires
-- CHSLD
 - CISSS / CIUSSS
-- Cliniques médicales
-- CSBE
-- GMF
 - INESSS
 - INSPQ
 - OPHQ 
