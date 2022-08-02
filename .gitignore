@@ -12,3 +12,4 @@
 04-filtrage/vocab/*
 05-transformation/*
 06-clustering/*
+04-filtrage/taxo_default_labels.tsv
