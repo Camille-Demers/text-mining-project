@@ -9,7 +9,7 @@
 02-contexte_litterature/*
 03-corpus/*
 04-filtrage/output/*
-04-filtrage/vocab/*
+04-filtrage/MeSH/fredesc2019.xml
 05-transformation/*
 06-clustering/*
 04-filtrage/taxo_default_labels.tsv
