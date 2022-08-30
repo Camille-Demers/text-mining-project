@@ -12,8 +12,7 @@ Les analyses ont été principalement développées sous la forme de Notebooks d
 
 ### **Organisation des corpus**
 Les différents dossiers de ce répertoire sont organisés selon la structure des corpus, c'est-à-dire par acteur dans l'organigramme du système de santé : 
-- Associations et ordres professionnels
-- CHU / Instituts universitaires
+- Centres hospitaliers universitaires / Instituts universitaires
 - CISSS / CIUSSS
 - INESSS
 - INSPQ
