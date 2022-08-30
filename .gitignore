@@ -1,0 +1,18 @@
+# Generic things to ignore
+.DS_Store
+.xlsx
+.log
+.XEN
+.xml
+
+# Folders to ignore
+00-admin
+01-ressources/*
+02-contexte_litterature/*
+01-corpus/*
+02-filtrage/output/*
+02-filtrage/MeSH/*
+03-transformation/*
+04-clustering/*
+02-filtrage/taxo_default_labels*
+02-filtrage/treetagger/*
